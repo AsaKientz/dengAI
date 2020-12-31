@@ -1,6 +1,8 @@
 # dengAI
 Competition on Driven Data to predict Dengue Fever cases
 
+[Dengue Competition - DriveData.com](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+
 ## Notes 12/17/20
 ### To Dos ()
 ### EDA
